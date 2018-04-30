@@ -18,5 +18,13 @@
 
 todo：一个页面中，两列，一列是色彩原样，一列是改造后的色彩，用来对同样一幅色彩识别图进行辨识。
 
+- google chrome color-enhencer 色弱矫正工具
+- firefox使用Google Chrome extensions manager可安装 此插件。
 
+
+移植到
+- chrome
+- firefox
+- safari
+- 桌面
 
